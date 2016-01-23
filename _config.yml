@@ -1,0 +1,29 @@
+name: MikeDeets
+favicon: null
+layout_spectrum: 0.3274559313431382
+typography_spectrum: 0.6641798606142402
+title: Direct Selling with Mike Deets
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.45712931733578444
+  lightness: 0.19016981171444058
+  saturation: 0.8303083463106304
+  rhythmicContrast: 0.25295755453407764
+purpose: []
