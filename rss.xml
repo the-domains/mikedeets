@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Direct Selling with Mike Deets]]></title>
         <description><![CDATA[Direct Selling with Mike Deets]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mikedeets/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 22:27:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 22:29:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mikedeets/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jeunesse Named One of the Best Places to Work in Direct Selling]]></title>
+            <description><![CDATA[<article><h1>Jeunesse Named One of the Best Places to Work in Direct Selling</h1><h2>The typical growth strategy of a direct selling company is to establish roots in one’s home market, develop a brand, generate buzz, and then look to expand overseas. Jeunesse, a direct seller devoted to healthy and youthful living through a suite of skincare and nutritional products, took that approach and flipped it on its head.</h2><p>The company is one of just seven in the industry to be honored</p></article>]]></description>
+            <link>https://thegrid.ai/mikedeets/jeunesse-named-one-of-the-best-places-to-work-in-direct-sell/index.html</link>
+            <guid isPermaLink="false">97d73da7-ee65-4a77-978c-966caa784c67</guid>
+            <pubDate>Sat, 23 Jan 2016 22:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>One of the leading direct selling companies devoted to encouraging healthy living has partnered with the United States Professional Tennis Association (USPTA) to provide a new member benefit to USPTA-certified Professionals. Jeunesse, marketed by Athletic Advantage Consulting, is now the official nutritional and wellness products provider of the USPTA, now an independent distributor of Jeunesse.</p>]]></description>
+            <link>https://thegrid.ai/mikedeets/96c6e7f7-3900-4c4e-8aab-0fbea28ebe65/index.html</link>
+            <guid isPermaLink="false">96c6e7f7-3900-4c4e-8aab-0fbea28ebe65</guid>
+            <pubDate>Sat, 23 Jan 2016 22:27:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jeunesse Named One of the Best Places to Work in Direct Selling]]></title>
             <description><![CDATA[<article><h1>Jeunesse Named One of the Best Places to Work in Direct Selling</h1><p>The company is one of just seven in the industry to be honored</p></article>]]></description>
-            <link>undefinedjeunesse-named-one-of-the-best-places-to-work-in-direct-sell/index.html</link>
+            <link>https://thegrid.ai/mikedeets/jeunesse-named-one-of-the-best-places-to-work-in-direct-sell/index.html</link>
             <guid isPermaLink="false">78f7b160-6434-47be-b6a4-6462d217a547</guid>
             <pubDate>Sat, 23 Jan 2016 22:27:18 GMT</pubDate>
         </item>
